@@ -1,0 +1,6 @@
+Flask
+whisper
+openai
+sqlalchemy
+psycopg2-binary
+python-dotenv
